@@ -1,0 +1,13 @@
+.xmppd__App {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 20px;
+  background: #eee;
+  border-top: #666;
+}
+
+.xmppd__App--open {
+  height: 150px;
+}
